@@ -147,7 +147,7 @@ The models in our survey paper are available at notion table [Graph Generative M
 ### statistical-based simulation
 - **(Publicationes Mathematicae 1960) On the evolution of random graphs [ER](https://pages.cs.wisc.edu/~cs809-1/ErdosRenyi.pdf)**
 - **(science 1999) Emergence of scaling in random networks [BA](https://www.science.org/doi/abs/10.1126/science.286.5439.509)**
-- **(Social networks 2007) An introduction to exponential random graph (p*) models for social networks [ERGM](https://www.sciencedirect.com/science/article/pii/S0378873306000372)**
+- **(Social networks 2007) An introduction to exponential random graph (p\*) models for social networks [ERGM](https://www.sciencedirect.com/science/article/pii/S0378873306000372)**
 - **(Stoc 2009) Affiliation networks [stoc_affiliation](https://doi.org/10.1145/1536414.1536474)**
 - **(JMLR 2010) Kronecker Graphs: An Approach to Modeling Networks [FastKronecker](https://dl.acm.org/doi/10.5555/1756006.1756039)**
 - **(Scientific reports 2012) Activity driven modeling of time varying networks [AND](https://www.nature.com/articles/srep00469)**
@@ -172,3 +172,19 @@ The models in our survey paper are available at notion table [Graph Generative M
 - **(ACL 2025) LLM-Based Multi-Agent Systems are Scalable Graph Generative Models [GAG](https://arxiv.org/abs/2410.09824)**
 - **(WWW 2025) RecUserSim: A Realistic and Diverse User Simulator for Evaluating Conversational Recommender Systems [RecUserSim](https://dl.acm.org/doi/abs/10.1145/3701716.3715258)**
 
+
+# 📚 Related Surveys
+## stastical-based
+- **(Massive graph analytics 2022) Recent advances in scalable network generation [Paper](https://arxiv.org/abs/2003.00736)**
+- **(CSUR 2019) Random graph modeling: A survey of the concepts [Paper](https://arxiv.org/abs/2403.14415)**
+- **(CSUR 2020) Graph Generators: State of the Art and Open Challenges [Paper](https://arxiv.org/abs/2001.07906)**
+- **(CSUR 2025) A Survey on Hypergraph Mining: Patterns, Tools, and Generators [Paper](https://dl.acm.org/doi/10.1145/3719002)**
+
+## deep-learning based 
+- **(IEEE Access, 2021) Deep Graph Generators: A Survey [Paper](https://ieeexplore.ieee.org/abstract/document/9490655/)**
+- **(LOG 2022) A Survey on Deep Graph Generation: Methods and Applications [Paper](https://proceedings.mlr.press/v198/zhu22a.html)**
+- **(IEEE Access 2023) Deep Generative Models for Synthetic Data: A Survey [Paper](https://cris.maastrichtuniversity.nl/en/publications/deep-generative-models-for-synthetic-data-a-survey/)**
+- **(IJCAI 2023) Deep Generative Models for Synthetic Data: A Survey [Paper](https://arxiv.org/abs/2302.02591)**
+
+## LLM-based
+- **(Arxiv 2024) From Individual to Society: A Survey on Social Simulation Driven by Large Language Model-based Agents [Paper](https://arxiv.org/abs/2412.03563)**
