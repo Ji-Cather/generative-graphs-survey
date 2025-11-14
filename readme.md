@@ -185,6 +185,7 @@ The models in our survey paper are available at notion table [Graph Generative M
 - **(LOG 2022) A Survey on Deep Graph Generation: Methods and Applications [Paper](https://proceedings.mlr.press/v198/zhu22a.html)**
 - **(IEEE Access 2023) Deep Generative Models for Synthetic Data: A Survey [Paper](https://cris.maastrichtuniversity.nl/en/publications/deep-generative-models-for-synthetic-data-a-survey/)**
 - **(IJCAI 2023) Deep Generative Models for Synthetic Data: A Survey [Paper](https://arxiv.org/abs/2302.02591)**
+<!-- - **(ICDE 2025) AIGC for Graphs: Current Techniques and Future Trends [Paper](https://www.computer.org/csdl/proceedings-article/icde/2025/360300e504/26FZCH7YVsA)** -->
 
 ## LLM-based
 - **(Arxiv 2024) From Individual to Society: A Survey on Social Simulation Driven by Large Language Model-based Agents [Paper](https://arxiv.org/abs/2412.03563)**
